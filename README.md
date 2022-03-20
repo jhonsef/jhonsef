@@ -29,3 +29,6 @@ Hi! I'm Brazilian Developer. Nowadays, most of the time, I use **C/C++** (*with 
 <a href="https://www.mysql.com/"><img height= "32" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img height= "32" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.markdownguide.org/"><img height= "32" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+
+## Status Report
+[![Jhonsef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonsef&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
