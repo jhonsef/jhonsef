@@ -6,10 +6,13 @@ Hi! I'm Brazilian Developer. Nowadays, most of the time, I use **C/C++** (*with 
 <a href="https://www.linkedin.com/in/jhonsef/"><img height="26" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/jhonsef"><img height="26" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+## Operating System that I use
+<a href="https://www.linuxfoundation.org"><img height= "32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="https://ubuntu.com"><img height= "32" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"></a>
+
 ## Some technologies that I know the most
 <a href="https://git-scm.com"><img height= "32" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.cplusplus.com"><img height= "32" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://www.linuxfoundation.org"><img height= "32" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://www.java.com/"><img height= "32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://www.javascript.com"><img height= "32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.lua.org"><img height= "32" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
