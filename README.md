@@ -13,16 +13,12 @@ Hi! I'm Brazilian Developer. Nowadays, most of the time, I use **C/C++** (*with 
 ## Some technologies that I know the most
 <a href="https://www.cplusplus.com"><img height= "32" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://www.java.com/"><img height= "32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://www.lua.org"><img height= "32" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
-<a href="https://www.postgresql.org"><img height= "32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="https://www.docker.com"><img height= "32" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://www.qt.io"><img height= "32" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://www.docker.com"><img height= "32" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 ## and, some of the ones I'm studying or that I know a little less
 <a href="https://go.dev"><img height= "32" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="https://reactnative.dev/"><img height= "32" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://swift.org/"><img height= "32" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
-<a href="https://www.android.com/"><img height= "32" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://nodejs.org/en/"><img height= "32" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://www.python.org/"><img height= "32" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
