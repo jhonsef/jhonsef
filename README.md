@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-Hi! I'm Brazilian Developer. Nowadays, most of the time, I use **C/C++** (*with Qt*) to develop applications in my work. Of course, other challenges always arise, which is why Kotlin, Swift and React Native will soon be in the family as well. In my free time, I really enjoy watching series and anime, in addition to always being interested in a motorcycle ride. Currently I'm working at <a href="https://www.stone.co/br">**Stone Co.**</a> as a software developer on **System Team**.
+Hello! I'm a software developer from Brazil. I predominantly work with C/C++ and Qt to craft applications in my professional sphere. However, the ever-evolving nature of technology brings new challenges, and I'm gearing up to add Kotlin, Swift, and React Native to my skill set soon. Outside of work, I'm an avid fan of TV series and anime and have a keen interest in motorcycling adventures. Currently, I'm working at <a href="https://www.stone.co/br">**Stone Co.**</a> as a software developer on **System Team**.
 
 <a href="https://www.linkedin.com/in/jhonsef/"><img height="26" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
